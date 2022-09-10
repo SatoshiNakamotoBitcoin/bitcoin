@@ -1251,7 +1251,7 @@ Solicitar pagos (genera códigos QR y bitcoin: URI)
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
-        <translation type="unfinished">No apague su computadora hasta que esta ventana desaparesca.</translation>
+        <translation type="unfinished">No apague su computadora hasta que esta ventana desaparezca.</translation>
     </message>
 </context>
 <context>
@@ -1278,7 +1278,7 @@ Solicitar pagos (genera códigos QR y bitcoin: URI)
     </message>
     <message>
         <source>calculating…</source>
-        <translation type="unfinished">calculando...</translation>
+        <translation type="unfinished">Calculando...</translation>
     </message>
     <message>
         <source>Progress</source>
@@ -1310,7 +1310,7 @@ Solicitar pagos (genera códigos QR y bitcoin: URI)
     <message>
         <source>Paste address from clipboard</source>
         <extracomment>Tooltip text for button that allows you to paste an address that is in your clipboard.</extracomment>
-        <translation type="unfinished">Pegar dirección  del portapapeles</translation>
+        <translation type="unfinished">Pegar dirección del portapapeles</translation>
     </message>
 </context>
 <context>
